@@ -24,7 +24,7 @@ function setup() {
   function bubblesort(){
     if(i < len){
       
-    for(let k =0 ; k<1;k++){          
+    for(let k =0 ; k<18;k++){          
       if(values[j] > values[j+1]){
         let temp = values[j]
         values[j] = values[j+1]
