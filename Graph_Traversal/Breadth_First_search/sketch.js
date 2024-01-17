@@ -13,7 +13,7 @@ function setup() {
   
   function draw() {
     // Set the background color
-    background(125)
+    background(225)
     fill(0);
     text('Bubble Sort', 20, 50);
     bubblesort();
